@@ -9,7 +9,7 @@ I am a creative programmer, digital artist, and internet horticulturalist from a
 
 ### latest things:
 
-  - [personal website - 2021 / 2022 update!](https://jpegzilla.com)
+  - [personal website - 2022 redesign!](https://jpegzilla.com)
   - [tsurezure](https://github.com/jpegzilla/tsurezure)
 
 ### contact
