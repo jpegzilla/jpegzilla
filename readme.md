@@ -3,6 +3,8 @@ _(eris, she / her)_
 
 I am a creative programmer, digital artist, and internet horticulturalist from atlanta, georgia. I'm interested in cutting-edge web tech, game development, digital archiving, web conservation and history, vocaloid, and many other things.
 
+I'm currently looking for web development work!
+
 ### latest writing:
 
   - [a web developer's thesis.](https://github.com/jpegzilla/thesis)
