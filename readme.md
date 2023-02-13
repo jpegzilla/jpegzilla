@@ -18,4 +18,4 @@ I'm currently looking for web development work!
 
   - [discord](https://discordapp.com/invite/Ft9rVA6)
   - [twitter](https://twitter.com/jpegzilla)
-  - email: eris at jpegzilla dot com
+  - email: eris@jpegzilla.com
