@@ -11,7 +11,7 @@ I'm currently looking for web development work!
 
 ### latest things:
 
-  - [personal website - 2021 / 2022 update!](https://jpegzilla.com)
+  - [personal website - 2022 redesign!](https://jpegzilla.com)
   - [tsurezure](https://github.com/jpegzilla/tsurezure)
 
 ### contact
