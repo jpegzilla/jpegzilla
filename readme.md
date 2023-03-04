@@ -13,6 +13,7 @@ I'm currently looking for web development work!
 ### latest things:
 
   - [personal website - 2022 redesign!](https://jpegzilla.com)
+  - [auciel](https://github.com/jpegzilla/auciel)
   - [bdo-alchemy-profits](https://github.com/jpegzilla/bdo-alchemy-profits)
   - [tsurezure](https://github.com/jpegzilla/tsurezure)
 
