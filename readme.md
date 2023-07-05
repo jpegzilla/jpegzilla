@@ -1,5 +1,5 @@
 ## hi, I'm jpegzilla!
-_(eris, she / her, 23)_
+_(eris, 24)_
 
 I am a creative programmer, digital artist, and internet horticulturalist from atlanta, georgia. I'm interested in cutting-edge web tech, game development, digital archiving, web conservation and history, vocaloid, and many other things.
 
